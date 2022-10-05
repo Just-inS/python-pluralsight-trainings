@@ -1,0 +1,1 @@
+This project contains files related to the "Getting Started with Jupyter Notebook 5 and Python" Course offered on PluralSight
